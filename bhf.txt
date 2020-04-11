@@ -1,0 +1,9 @@
+# The following are hosts which blocks Bulgarian Ads and Tracking Servers 
+#
+ad.petel.bg
+adhash.org
+adsy.mail.bg
+advertere.zamunda.net
+as.adwise.bg
+eadsrv.com
+# Hosts: 6

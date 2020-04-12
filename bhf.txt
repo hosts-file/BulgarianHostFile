@@ -2,11 +2,14 @@
 #
 ad.petel.bg
 adhash.org
+adsy.insert.bg
 adsy.mail.bg
 adv.abv.bg
 adv.gepime.com
+adv2.alo.bg
 advertere.zamunda.net
 as.adwise.bg
+avatar-bg.org
 b.grabo.bg
 b.obiava.bg
 bg.hit.gemius.pl
@@ -21,9 +24,11 @@ i.id24.bg
 i.potv.bg
 i.static.zaplata.bg
 i.wisdom.bg
+record.winbetaffiliates.bg
 reklama.wisdom.bg
 relay-bg.ads.httpool.com
+server.adnet.bg
 vbbg.adocean.pl
 webgroundadbg.hit.gemius.pl
 webgroundbg.adocean.pl
-# Hosts: 26
+# Hosts: 31

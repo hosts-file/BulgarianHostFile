@@ -6,13 +6,18 @@ adsy.insert.bg
 adsy.mail.bg
 adv.abv.bg
 adv.gepime.com
+adv.smedia.bg
 adv2.alo.bg
+advert.balkanec.bg
 advertere.zamunda.net
 as.adwise.bg
 avatar-bg.org
 b.grabo.bg
 b.obiava.bg
+bg.adocean.pl
 bg.hit.gemius.pl
+bggde.adocean.pl
+blitzbg.adocean.pl
 eadsrv.com
 gabg.hit.gemius.pl
 gdebg.hit.gemius.pl
@@ -24,11 +29,14 @@ i.id24.bg
 i.potv.bg
 i.static.zaplata.bg
 i.wisdom.bg
+js.winbetaffiliates.bg
+media.winbetaffiliates.bg
 record.winbetaffiliates.bg
 reklama.wisdom.bg
 relay-bg.ads.httpool.com
 server.adnet.bg
+sportalbg.adocean.pl
 vbbg.adocean.pl
 webgroundadbg.hit.gemius.pl
 webgroundbg.adocean.pl
-# Hosts: 31
+# Hosts: 39

@@ -3,7 +3,27 @@
 ad.petel.bg
 adhash.org
 adsy.mail.bg
+adv.abv.bg
+adv.gepime.com
 advertere.zamunda.net
 as.adwise.bg
+b.grabo.bg
+b.obiava.bg
+bg.hit.gemius.pl
 eadsrv.com
-# Hosts: 6
+gabg.hit.gemius.pl
+gdebg.hit.gemius.pl
+i.adwise.bg
+i.dir.bg
+i.grabo.bg
+i.helikon.bg
+i.id24.bg
+i.potv.bg
+i.static.zaplata.bg
+i.wisdom.bg
+reklama.wisdom.bg
+relay-bg.ads.httpool.com
+vbbg.adocean.pl
+webgroundadbg.hit.gemius.pl
+webgroundbg.adocean.pl
+# Hosts: 26

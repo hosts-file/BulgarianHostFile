@@ -5,8 +5,10 @@ adhash.org
 ads.dobrichonline.com
 ads.masters.bg
 ads2.jenite.bg
+adsrv.fashion.bg
 adsy.insert.bg
 adsy.mail.bg
+adsys.insert.bg
 adv.abv.bg
 adv.gepime.com
 adv.smedia.bg
@@ -37,10 +39,11 @@ media.winbetaffiliates.bg
 record.winbetaffiliates.bg
 reklama.wisdom.bg
 relay-bg.ads.httpool.com
+reviveads.faktor.bg
 server.adnet.bg
 sportalbg.adocean.pl
 vbbg.adocean.pl
 webgroundadbg.hit.gemius.pl
 webgroundbg.adocean.pl
 x9b05t5jsqje.com
-# Hosts: 43
+# Hosts: 46

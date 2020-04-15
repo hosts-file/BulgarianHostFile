@@ -1,13 +1,17 @@
 # The following are hosts which blocks Bulgarian Ads and Tracking Servers 
 #
 a.abv.bg
+ad.moreto.net
 ad.petel.bg
 adhash.org
 ads.dobrichonline.com
 ads.haskovo.net
 ads.masters.bg
+ads.predpriemach.com
 ads.sagabg.net
+ads.tvevropa.com
 ads2.jenite.bg
+adskeeper.co.uk
 adsrv.fashion.bg
 adsy.insert.bg
 adsy.mail.bg
@@ -25,6 +29,8 @@ b.grabo.bg
 b.obiava.bg
 bg.adocean.pl
 bg.hit.gemius.pl
+bg.search.etargetnet.com
+bg.static.etargetnet.com
 bggde.adocean.pl
 blitzbg.adocean.pl
 counter.search.bg
@@ -41,15 +47,18 @@ i.static.zaplata.bg
 i.wisdom.bg
 js.winbetaffiliates.bg
 media.winbetaffiliates.bg
+myonvideo.com
 record.winbetaffiliates.bg
 reklama.wisdom.bg
 relay-bg.ads.httpool.com
 revive.kamioni.bg
+revive.vkushti.tv
 reviveads.faktor.bg
 server.adnet.bg
 sportalbg.adocean.pl
 vbbg.adocean.pl
 webgroundadbg.hit.gemius.pl
 webgroundbg.adocean.pl
+wlefbet.adsrv.eacdn.com
 x9b05t5jsqje.com
-# Hosts: 52
+# Hosts: 61

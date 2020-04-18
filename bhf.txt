@@ -10,8 +10,10 @@ ads.dir.bg
 ads.dobrichonline.com
 ads.haskovo.net
 ads.jenite.bg
+ads.kaldata.com
 ads.mail.bg
 ads.masters.bg
+ads.olx.com
 ads.predpriemach.com
 ads.sagabg.net
 ads.search.bg
@@ -42,6 +44,7 @@ b.obiava.bg
 banex.search.bg
 banner.search.bg
 banners.alo.bg
+banners.bgmaps.com
 banners.dir.bg
 bg.adocean.pl
 bg.hit.gemius.pl
@@ -73,6 +76,9 @@ js.winbetaffiliates.bg
 media.winbetaffiliates.bg
 myonvideo.com
 negadbg.hit.gemius.pl
+olx.hit.gemius.pl
+olxpl-d.openx.net
+olxro-d.openx.net
 ox.fashion.bg
 r.dir.bg
 r5.dir.bg
@@ -85,10 +91,12 @@ reviveads.faktor.bg
 server.adnet.bg
 sportaladbg.hit.gemius.pl
 sportalbg.adocean.pl
+tracking.olx.com
+tracking.olx-st.com
 vbadbg.hit.gemius.pl
 vbbg.adocean.pl
 webgroundadbg.hit.gemius.pl
 webgroundbg.adocean.pl
 wlefbet.adsrv.eacdn.com
 x9b05t5jsqje.com
-# Hosts: 91
+# Hosts: 99
